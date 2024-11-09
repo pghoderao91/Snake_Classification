@@ -40,8 +40,11 @@ Non Venomous
 
 MODEL COMPILATION & TRAINING & EVALUATION:
 •	Use binary cross_entropy and adam optimaizer to compile a model
+
 •	Train model on 50 epochs, and plot training, validation accuracy as well as loss and validation loss
+
 •	After evaluating the model 
+
 Train Accuracy & Loss: [0.6162,0.6599]
 
 ## MODEL SAVING:
